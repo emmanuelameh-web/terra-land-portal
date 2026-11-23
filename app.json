@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "Terra Land Portal",
+    "slug": "terra-land-portal",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": { "supportsTablet": true },
+    "android": {},
+    "web": {
+      "bundler": "metro",
+      "output": "single",
+      "name": "Terra Land Portal",
+      "shortName": "Terra Land"
+    }
+  }
+}
